@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "alfresco-js-api": "^0.2.2"
+  }
+}
